@@ -15,6 +15,12 @@ This Python script helps grade multiple-choice answer sheets (like the ones with
     * Prints a detailed report to the console.
     * Saves images showing the detected bubbles, the graded sheet with marks, and a heatmap of filled areas in an `output_steps` folder.
     * Saves a CSV file with the fill level for every single bubble.
+## Image Processed
+![image](https://github.com/user-attachments/assets/71a9298a-866d-48a6-b688-2618abdd3c51) ![image](https://github.com/user-attachments/assets/f8ee13c0-ada6-4cbb-87c7-0064c5c37899)
+
+## Dashboard 
+![image](https://github.com/user-attachments/assets/9763d992-9780-405b-abd3-1cc6fca78d3c)
+
 
 ## Tech Used
 
